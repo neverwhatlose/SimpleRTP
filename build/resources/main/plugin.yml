@@ -2,7 +2,3 @@ name: SimpleRtpPlugin
 version: '${version}'
 main: ru.nwtls.simplertpplugin.SimpleRtpPlugin
 api-version: '1.21'
-
-commands:
-  rtp:
-    usage: /rtp
